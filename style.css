@@ -437,7 +437,7 @@ body {
     margin-left: 20%;
     margin-bottom: 10%;
     display: inline-block;
-    gap: 20px;
+    line-height: 1.9;
 
 
 }
@@ -468,24 +468,27 @@ body {
 
 .icon h2 {
     position: relative;
-bottom: 58px;
-font-size: 35px;
-color: #fff;
+    bottom: 58px;
+    font-size: 35px;
+    color: #fff;
 }
-.icon a{
+
+.icon a {
     position: relative;
     bottom: 50px;
     font-size: 40px;
     color: #fff;
 }
-.icon i{
+
+.icon i {
     position: relative;
     bottom: 40px;
     font-size: 30px;
-   color: #6d6767;
+    color: #6d6767;
 
 }
-.icon button{
+
+.icon button {
     width: 120px;
     height: 50px;
     border-radius: 9px;
@@ -494,12 +497,11 @@ color: #fff;
     border: none;
 
 }
-.icon button i{
+
+.icon button i {
     position: relative;
     top: 6px;
-   right: 4px;
-   color: #fff;
+    right: 4px;
+    color: #fff;
 
 }
-
-
